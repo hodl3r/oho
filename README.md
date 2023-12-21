@@ -1,4 +1,4 @@
 # oho
 - a nonsense one
-- right..
+- right.
 - ye.
